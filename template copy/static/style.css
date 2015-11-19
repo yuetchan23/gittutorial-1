@@ -4,7 +4,7 @@ body {
     width:95%;
 }
 a {
-    color: blue;
+    color: blue;sds
 }
 header h1 a{
     text-decoration: none;
@@ -23,7 +23,7 @@ header {
     overflow:hidden;
     padding: .25em;
     background-color: #dde;
-    height:6vh; 
+    height:6vh;
     line-height:6vh;
     padding-top: .75em;
     text-align: center;
@@ -81,7 +81,7 @@ header a{
 /* This manner of centering only works on single line of text */
 footer {
     background-color: #dde;
-    height:2rem; 
+    height:2rem;
     line-height:2rem;
     text-align: center;
 }
